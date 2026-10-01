@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive implementation plan for Polls — an advanced polling and voting platform featuring Instant-Runoff Voting (IRV) round-by-round elimination playback, anonymous voting, custom option creation with limits, role-based moderation (Admin, Member, Anonymous), and a desktop/mobile polished SaaS interface.",
+  "updatedAt":  "2026-10-01T01:31:20.151177656Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

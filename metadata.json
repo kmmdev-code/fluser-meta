@@ -1,0 +1,6 @@
+{
+  "name": "Polls",
+  "description": "Advanced polling and voting platform featuring Instant-Runoff Voting (IRV), anonymous voting, custom options, round-by-round elimination playback, and administrative moderation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
