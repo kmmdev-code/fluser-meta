@@ -16,3 +16,4 @@
 vite.config.js      # Vite + Tailwind + React config
 .env.example        # Env template
 
+# For Client Review
